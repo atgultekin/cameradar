@@ -143,6 +143,7 @@ play2.sdp
 profile2/media.smp
 profile5/media.smp
 rtpvideo1.sdp
+rtsp/live
 rtsp_live0
 rtsp_live1
 rtsp_live2
